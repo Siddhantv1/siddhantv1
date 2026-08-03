@@ -2,8 +2,8 @@
     "image": "https://raw.githubusercontent.com/Siddhantv1/siddhantv1/main/assets/image.png",
     "coloredImage": true,
     "removeBackground": false,
-    "imageScale": 1.1,
-    "imageOffsetX": "10%",
+    "imageScale": 1,
+    "imageOffsetX": "0%",
     "imageOffsetY": "0%",
     
   "sections": [
