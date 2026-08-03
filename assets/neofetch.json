@@ -1,5 +1,10 @@
 {
-    "image": "https://raw.githubusercontent.com/Siddhantv1/siddhantv1/main/ark.png",
+    "image": "https://raw.githubusercontent.com/Siddhantv1/siddhantv1/main/assets/ark.png",
+    "coloredImage": true,
+    "removeBackground": false,
+    "imageScale": 1.1,
+    "imageOffsetX": "10%",
+    "imageOffsetY": "0%",
     
   "sections": [
     {
