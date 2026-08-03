@@ -3,6 +3,7 @@
     "coloredImage": true,
     "removeBackground": false,
     "imageScale": 0.8,
+    "imageOffsetX": "-10%",
     
   "sections": [
     {
@@ -12,7 +13,7 @@
         { "key": "Location", "value": "{{location}}" },
         { "key": "Created", "value": "{{created}}" },
         { "key": "Uptime", "value": "{{uptime}}" },
-        { "key": "Company", "value": "{{company}}" }
+        { "key": "Role", "value": "Software Engineer" }
       ]
     },
     {
@@ -24,7 +25,7 @@
     {
       "fields": [
         { "key": "Hobbies.Software", "value": "Python, AI/ML, C++" },
-        { "key": "Hobbies.Hardware", "value": "Mechanical Keyboards, ESP32" }
+        { "key": "Hobbies.Hardware", "value": "Mechanical Keyboards, Raspberry Pi" }
       ]
     },
     {
