@@ -1,5 +1,6 @@
 {
     "image": "https://raw.githubusercontent.com/Siddhantv1/siddhantv1/main/image.svg",
+    "imageScale": 2,
   "sections": [
     {
       "title": "{{username}}@github",
