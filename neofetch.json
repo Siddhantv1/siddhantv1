@@ -1,5 +1,5 @@
 {
-    "image": "https%3A%2F%2Fgithub.com%2FSiddhantv1%2Fsiddhantv1%2Fraw%2Fmain%2Fimage.png",
+    "image": "https://github.com/Siddhantv1/siddhantv1/raw/main/image.png",
   "sections": [
     {
       "title": "{{username}}@github",
@@ -13,7 +13,7 @@
     },
     {
       "fields": [
-        { "key": "Languages", "value": "{{languages}}" },
+        { "key": "Languages", "value": "Python, JavaScript, TypeScript, C++" },
         { "key": "IDE", "value": "VSCode, Neovim, " }
       ]
     },
