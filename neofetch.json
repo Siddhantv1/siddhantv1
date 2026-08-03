@@ -4,7 +4,7 @@
     {
       "title": "{{username}}@github",
       "fields": [
-        { "key": "Name", "value": "{{name}}" },
+        { "key": "Name", "value": "Siddhant Ojha" },
         { "key": "Location", "value": "{{location}}" },
         { "key": "Created", "value": "{{created}}" },
         { "key": "Uptime", "value": "{{uptime}}" },
@@ -14,13 +14,13 @@
     {
       "fields": [
         { "key": "Languages", "value": "{{languages}}" },
-        { "key": "IDE", "value": "Cursor, VSCode, Neovim" }
+        { "key": "IDE", "value": "VSCode, Neovim, " }
       ]
     },
     {
       "fields": [
-        { "key": "Hobbies.Software", "value": "Python, Agentic AI, C++" },
-        { "key": "Hobbies.Hardware", "value": "Mechanical Keyboards" }
+        { "key": "Hobbies.Software", "value": "Python, AI/ML, C++" },
+        { "key": "Hobbies.Hardware", "value": "Mechanical Keyboards, ESP32" }
       ]
     },
     {
