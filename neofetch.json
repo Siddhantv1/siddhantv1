@@ -14,7 +14,7 @@
     {
       "fields": [
         { "key": "Languages", "value": "Python, JavaScript, TypeScript, C++" },
-        { "key": "IDE", "value": "VSCode, Neovim, " }
+        { "key": "IDE", "value": "VSCode, Neovim, Claude Code" }
       ]
     },
     {
@@ -27,7 +27,6 @@
       "title": "- Contact",
       "fields": [
         { "key": "Email", "value": "{{email}}" },
-        { "key": "Website", "value": "https://github.com/{{username}}" },
         { "key": "Twitter", "value": "{{twitter}}" }
       ]
     }
