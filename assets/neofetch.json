@@ -13,7 +13,7 @@
         { "key": "Location", "value": "Bangalore" },
         { "key": "Created", "value": "{{created}}" },
         { "key": "Uptime", "value": "{{uptime}}" },
-        { "key": "Bio", "value": "Software Engineer" }
+        { "key": "Company", "value": "{{company}}" }
       ]
     },
     {
@@ -33,7 +33,7 @@
       "fields": [
         { "key": "Email", "value": "{{email}}" },
         { "key": "Twitter", "value": "{{twitter}}" },
-        { "key": "LeetCode", "value": "darkblueowl" }
+        { "key": "LeetCode", "value": "https://leetcode.com/u/darkblueowl/" }
       ]
     }
   ],
