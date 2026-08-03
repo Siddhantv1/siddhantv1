@@ -3,17 +3,17 @@
     "coloredImage": true,
     "removeBackground": false,
     "imageScale": 0.8,
-    "imageOffsetX": "-10%",
+    "imageOffsetX": -10,
     
   "sections": [
     {
       "title": "{{username}}@github",
       "fields": [
         { "key": "Name", "value": "Siddhant Ojha" },
-        { "key": "Location", "value": "{{location}}" },
+        { "key": "Location", "value": "Bangalore" },
         { "key": "Created", "value": "{{created}}" },
         { "key": "Uptime", "value": "{{uptime}}" },
-        { "key": "Role", "value": "Software Engineer" }
+        { "key": "Bio", "value": "Software Engineer" }
       ]
     },
     {
