@@ -1,7 +1,8 @@
 {
-    "image": "https://raw.githubusercontent.com/Siddhantv1/siddhantv1/main/bman1.png",
+    "image": "https://raw.githubusercontent.com/Siddhantv1/siddhantv1/main/image.svg",
     "coloredImage": true,
     "imageScale": 0.5,
+    "removeBackground": false,
   "sections": [
     {
       "title": "{{username}}@github",
