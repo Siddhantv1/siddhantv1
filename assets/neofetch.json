@@ -1,5 +1,5 @@
 {
-    "image": "https://raw.githubusercontent.com/Siddhantv1/siddhantv1/main/assets/bman1.png",
+    "image": "https://raw.githubusercontent.com/Siddhantv1/siddhantv1/main/assets/bman1.svg",
     "coloredImage": true,
     "removeBackground": false,
     "imageScale": 1.1,
@@ -33,7 +33,8 @@
       "title": "- Contact",
       "fields": [
         { "key": "Email", "value": "{{email}}" },
-        { "key": "Twitter", "value": "{{twitter}}" }
+        { "key": "Twitter", "value": "{{twitter}}" },
+        { "key": "LeetCode", "value": "https://leetcode.com/u/darkblueowl/" }
       ]
     }
   ],
